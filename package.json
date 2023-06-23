@@ -1,0 +1,28 @@
+{
+  "name": "nft-marketplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imkdw/nft-marketplace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imkdw/nft-marketplace/issues"
+  },
+  "homepage": "https://github.com/imkdw/nft-marketplace#readme",
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "hardhat": "^2.16.0",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "typescript": "^5.1.3"
+  }
+}
